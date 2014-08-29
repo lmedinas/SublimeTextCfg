@@ -1,0 +1,20 @@
+{
+	"atomic_save": false,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Piatto/Piatto Light.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"soda_classic_tabs": true,
+	"tab_size": 3,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
